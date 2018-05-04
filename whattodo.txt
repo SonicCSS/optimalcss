@@ -1,0 +1,5 @@
+1. Go through properties in class
+    - clean them
+    - (search for class in html and if found) keep track of them, and create class names.
+
+2. in template, add classes to elements and remove the original class
